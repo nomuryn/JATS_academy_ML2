@@ -13,4 +13,4 @@
 ・Step 2
 　以下のNotebookをGoogle Colabで開いてください。
 
-  　JATS_Academy_9_様々な機械学習モデルを用いたデータ解析    [Open in Colab]
+  　JATS_Academy_9_様々な機械学習モデルを用いたデータ解析    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
