@@ -13,4 +13,4 @@
 ・Step 2
 　以下のNotebookをGoogle Colabで開いてください。
 
-  　JATS_Academy_9_様々な機械学習モデルを用いたデータ解析.ipynb  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nomuryn/JATS_academy_ML2/blob/main/JATS_Academy_9_様々な機械学習モデルを用いたデータ解析.ipynb)
+  　JATS_Academy_9_code.ipynb  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nomuryn/JATS_academy_ML2/blob/main/JATS_Academy_9_code.ipynb)
